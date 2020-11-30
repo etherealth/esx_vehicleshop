@@ -4,10 +4,10 @@ Config.MarkerColor                = {r = 120, g = 120, b = 240}
 Config.EnablePlayerManagement     = false -- enables the actual car dealer job. You'll need esx_addonaccount, esx_billing and esx_society
 Config.ResellPercentage           = 50
 
-Config.Locale                     = 'fr'
+Config.Locale                     = 'en'
 
 Config.LicenseEnable = false -- require people to own drivers license when buying vehicles? Only applies if EnablePlayerManagement is disabled. Requires esx_license
-
+Config.Etrvshop = true
 -- looks like this: 'LLL NNN'
 -- The maximum plate length is 8 chars (including spaces & symbols), don't go past it!
 Config.PlateLetters  = 3
